@@ -1,0 +1,23 @@
+AR ESPORT LANDING PAGE - SOURCE LICENSE
+=======================================
+Copyright (c) 2025 nightforgeio (JustJayDev). All rights reserved.
+
+This file and the accompanying landing page source (index.html, logo.jpg,
+and related assets) are the exclusive intellectual property of nightforgeio
+(JustJayDev).
+
+THE OWNER / CLIENT (AR GAMING 160 / AR Esport) MAY USE THIS PAGE ONLY AFTER
+PURCHASING A LICENSE FROM nightforgeio. Until a paid license is issued, this
+page is for demonstration and portfolio purposes only.
+
+PROHIBITED WITHOUT A PAID LICENSE:
+- Deploying or hosting this page publicly or commercially.
+- Using this page as a business's live website.
+- Copying, modifying, or distributing this page (in whole or in part).
+- Removing, altering, or bypassing this license notice.
+- Claiming authorship of this design.
+
+This is NOT free software. No rights are granted except those explicitly
+stated in a written license agreement from nightforgeio.
+
+For licensing inquiries, contact: nightforgeio (via GitHub).
